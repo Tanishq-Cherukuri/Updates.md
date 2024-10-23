@@ -1,0 +1,22 @@
+
+
+Data Structures
+Ms SQL
+Power BI 
+Azure 
+interview questions
+cheat sheet
+python
+
+
+data migration
+store procedures
+data modelling
+triggers
+data warehousing
+performance tuning
+triggers
+database designs
+normalization
+data profiling
+data backups 
